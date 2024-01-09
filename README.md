@@ -14,6 +14,6 @@ This Anki deck is designed to assist individuals in mastering theory concepts fo
 
 ## Notes
 - The settings for this deck have been left at their default values. There may be more effective configurations.
-- The deck is a work in progress, not all topics have been covered yet. There are currently 89 cards, covering ADM topics up to chapter 6.5, and a few topics in CTCI.
+- There are currently 175 cards, covering all ADM topics, a few topics in CTCI, and some extra bits and pieces.
 
 ## Happy Learning!
