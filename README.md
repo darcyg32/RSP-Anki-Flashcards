@@ -1,7 +1,7 @@
 # RSP Theory Flashcards
 
 ## Overview
-This Anki deck is designed to assist individuals in mastering theory concepts for RSP. Whether you're seeking to advance to novice, or you're just trying to revise some topics, these flashcards aim to reinforce key theoretical principles.
+This Anki deck is designed to assist individuals in studying theory concepts for RSP. Whether you're seeking to advance to novice, or you're just trying to revise some topics, these flashcards aim to reinforce key theoretical principles.
 
 ## Features
 - **Comprehensive Coverage:** Covers a wide range of theory topics from both _Cracking The Coding Interview_ and _The Algorithm Design Manual_.
@@ -14,6 +14,6 @@ This Anki deck is designed to assist individuals in mastering theory concepts fo
 
 ## Notes
 - The settings for this deck have been left at their default values. There may be more effective configurations.
-- There are currently 175 cards, covering all ADM topics, a few topics in CTCI, and some extra bits and pieces.
+- There are currently 150+ cards, covering all ADM topics, a few cards about CTCI, and some extra bits and pieces.
 
 ## Happy Learning!
